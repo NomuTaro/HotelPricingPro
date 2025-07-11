@@ -1,0 +1,24 @@
+# Core dependencies for Hotel Pricing Pro
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+lightgbm>=3.3.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+japanize-matplotlib>=1.1.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Data processing and analysis
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+isort>=5.10.0 
